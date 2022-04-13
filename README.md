@@ -1,2 +1,1 @@
-# Hello this is a code 
-This is a document
+# Easy Python Tips

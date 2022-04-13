@@ -1,2 +1,2 @@
-# Sakina Mid term examination 
-This is for Sakina's Midterm exam
+# Hello this is a code 
+This is a document
